@@ -1,0 +1,14 @@
+.title {
+    color: white;
+    text-align: center;
+    background-color: pink;
+    font-size: large;
+
+}
+.picture {
+    align-items: center;
+}
+.bullets {
+    text-align: center;
+    color: olivedrab;
+}
